@@ -1,0 +1,14 @@
+# Contract Monthly Claim System
+
+## Description
+This project involves developing a .NET web-based application known as the Contract Monthly Claim System (CMCS). The system is designed to streamline the process of submitting and approving monthly claims for independent contractor lecturers.
+
+## Features
+- Claim submission by lecturers
+- Verification and approval by Programme Coordinators and Academic Managers
+- Uploading and tracking of supporting documents
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/repository.git
